@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/button_bottom.xml" value="0.286" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3455" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/drawable/rounded_bar.xml" value="0.286" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_article.xml" value="0.3625" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_consultation.xml" value="0.3625" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_historypayment.xml" value="0.33" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_historytest.xml" value="0.22" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/activity_register1.xml" value="0.33" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/layout/rounded_navbar.xml" value="0.3625" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/menu/navbar.xml" value="0.3625" />
+        <entry key="..\:/MentalHealthApps/app/src/main/res/menu/navmenu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
